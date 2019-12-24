@@ -1,0 +1,10 @@
+.nav-bar {
+    background: linear-gradient(to right, #ff512f, #e02222);
+    display: flex;
+    padding: 0 25px;
+    align-items: center;
+    height: 45px;
+}
+.nav-bar-container {
+    flex: 1;
+}

@@ -1,0 +1,16 @@
+.list-types {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+}
+.list-name {
+    height: 2.5em;
+    color: #1b1b1b;
+    font-weight: 500;
+    font-size: 18px;
+    border-bottom: 2px solid #e6e1e1;
+    padding: 0.5em;
+}
+.list-name:hover {
+    border-bottom: 2px solid rgb(129, 123, 123);
+}

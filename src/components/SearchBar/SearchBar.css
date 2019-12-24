@@ -1,0 +1,19 @@
+.icon {
+    width: 25px;
+    height: 25px;
+}
+.icon-container {
+    margin: 0 8px;
+}
+.search-bar {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 1px solid black;
+}
+.search-bar:focus {
+    background-color: #e02222;
+}
+.search-bar-container {
+    text-align: right;
+}

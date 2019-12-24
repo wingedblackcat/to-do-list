@@ -1,0 +1,17 @@
+.brn-container {
+    text-align: end;
+}
+.plus {
+    width: 25px;
+    height: 25px;
+    opacity: 0.8;
+}
+.plus:hover {
+    width: 30px;
+    height: 30px;
+    opacity: 1;
+}
+.add-btn {
+    background-color: transparent;
+    border: none;
+}
